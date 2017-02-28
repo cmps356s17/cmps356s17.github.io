@@ -1,15 +1,15 @@
 [
   {
     "code": "AUP",
-    "name": "Architecture and Urban Planning "
+    "name": "Architecture and Urban Planning"
   },
   {
     "code": "CHE",
-    "name": "Chemical Engineering "
+    "name": "Chemical Engineering"
   },
   {
     "code": "CVE",
-    "name": "Civil Engineering "
+    "name": "Civil Engineering"
   },
   {
     "code": "CS",
@@ -17,18 +17,18 @@
   },
   {
     "code": "CE",
-    "name": "Computer Engineering "
+    "name": "Computer Engineering"
   },
   {
     "code": "EE",
-    "name": "Electrical Engineering "
+    "name": "Electrical Engineering"
   },
   {
     "code": "ME",
-    "name": "Mechanical Engineering "
+    "name": "Mechanical Engineering"
   },
   {
     "code": "ISE",
-    "name": "Industrial and Systems Engineering "
+    "name": "Industrial and Systems Engineering"
   }
 ]
