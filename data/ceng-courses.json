@@ -291,11 +291,6 @@
   },
   {
     "program": "CE",
-    "code": "CMPS 303",
-    "name": "Data Structures"
-  },
-  {
-    "program": "CE",
     "code": "CMPE 363",
     "name": "Computer Architecture and Organization II"
   },
