@@ -1,0 +1,27 @@
+[
+  {
+    "code": "Homework",
+    "type": "Homework",
+    "max": 8
+  },
+  {
+    "code": "Quiz",
+    "type": "Quiz",
+    "max": 10
+  },
+  {
+    "code": "MidtermExam",
+    "type": "Midterm exam",
+    "max": 2
+  },
+  {
+    "code": "FinalExam",
+    "type": "Final exam",
+    "max": 1
+  },
+  {
+    "code": "Project",
+    "type": "Project",
+    "max": 4
+  }
+]
